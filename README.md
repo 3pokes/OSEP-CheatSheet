@@ -3,10 +3,10 @@ Just a OSEP Cheat Sheet for my examination preparation.
 
 ## Table of Contents
 
-* Tools(#Tools)
-* Encoding(#Encoding)
-* Bypasses(#Bypasses)
-* Exploit(#Exploit)
+* [Tools](#Tools)
+* [Encoding](#Encoding)
+* [Bypasses](#Bypasses)
+* [Exploit](#Exploit)
 
 ### Tools<a name="Tools"></a>
 

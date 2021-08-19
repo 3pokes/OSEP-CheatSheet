@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLM-Bypass", "CLM-Bypass\CLM-Bypass.csproj", "{3C43B438-08D1-4474-BA5C-41E2A11A5398}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C43B438-08D1-4474-BA5C-41E2A11A5398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C43B438-08D1-4474-BA5C-41E2A11A5398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C43B438-08D1-4474-BA5C-41E2A11A5398}.Debug|x64.ActiveCfg = Debug|x64
+		{3C43B438-08D1-4474-BA5C-41E2A11A5398}.Debug|x64.Build.0 = Debug|x64
+		{3C43B438-08D1-4474-BA5C-41E2A11A5398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C43B438-08D1-4474-BA5C-41E2A11A5398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C43B438-08D1-4474-BA5C-41E2A11A5398}.Release|x64.ActiveCfg = Release|x64
+		{3C43B438-08D1-4474-BA5C-41E2A11A5398}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63C1E241-D64F-4D91-A18E-FF985B341F4B}
+	EndGlobalSection
+EndGlobal

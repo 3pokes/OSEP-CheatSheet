@@ -15,12 +15,12 @@ Just a OSEP Cheat Sheet for my examination preparation.
 
 ### Encoding<a name="Encoding"></a>
 
-* Caesar Shellcode Encoding
-* ROT Shellcode Encoding
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/tree/main/Encoders/Caesar%20Shellcode%20Encoder">Caesar Shellcode Encoding</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/tree/main/Encoders/ROT%20Shellcode%20Encoder">ROT Shellcode Encoding</a>
 
 ### Bypasses<a name="Bypasses"></a>
 
-* CLM Bypass
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/tree/main/Bypasses/CLM%20Bypass">CLM Bypass</a>
 
 ### Exploit<a name="Exploit"></a>
 

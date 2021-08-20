@@ -6,7 +6,7 @@ Just a OSEP Cheat Sheet for my examination preparation.
 * [Tools](#Tools)
 * [Encoding](#Encoding)
 * [Bypasses](#Bypasses)
-* [Exploit](#Exploit)
+* [Active Directory & Exploit](#AD)
 
 ### Tools<a name="Tools"></a>
 
@@ -21,11 +21,14 @@ Just a OSEP Cheat Sheet for my examination preparation.
 ### Bypasses<a name="Bypasses"></a>
 
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/tree/main/Bypasses/CLM%20Bypass">CLM Bypass</a>
+* AMSI/CLM Bypass TXT Version
 
-### Exploit<a name="Exploit"></a>
+### Active Directory & Exploit<a name="AD"></a>
 
+* <a href="https://github.com/BloodHoundAD/BloodHound/blob/master/Collectors/SharpHound.ps1">SharpHound</a>
+* <a href="https://github.com/GhostPack/Rubeus">Rubeus</a>
+* <a href="https://github.com/leechristensen/SpoolSample">SpoolSample</a>
 * <a href="https://github.com/itm4n/PrintSpoofer">PrintSpoofer</a>
-
-#### SQL Attacks
-
+* <a href="https://github.com/gentilkiwi/mimikatz/wiki">Mimikatz</a>
+* <a href="https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Invoke-Mimikatz.ps1">Mimikats PowerShell Version</a>
 * <a href="https://github.com/v0lk3n/SQLinks2Move">Microsoft SQL Linked Servers Attacks - SQLinks2Move</a>

@@ -21,7 +21,7 @@ Just a OSEP Cheat Sheet for my examination preparation.
 ### Bypasses<a name="Bypasses"></a>
 
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/tree/main/Bypasses/CLM%20Bypass">CLM Bypass</a>
-* AMSI/CLM Bypass TXT Version
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Bypasses/AMSI-CLM-Bypass/amsi-clm-bypass.md">AMSI/CLM Bypass Command Line Version</a>
 
 ### Active Directory & Exploit<a name="AD"></a>
 

@@ -13,6 +13,13 @@ Just a OSEP Cheat Sheet for my examination preparation.
 
 * <a href="https://antiscan.me/">Multi AV Scanning Online Tool - Anti Scan Me.</a>
 * <a href="https://github.com/tyranid/DotNetToJScript">DotNetToJScript</a>
+* <a href="https://github.com/BloodHoundAD/BloodHound/blob/master/Collectors/SharpHound.ps1">SharpHound</a>
+* <a href="https://github.com/GhostPack/Rubeus">Rubeus</a>
+* <a href="https://github.com/leechristensen/SpoolSample">SpoolSample</a>
+* <a href="https://github.com/itm4n/PrintSpoofer">PrintSpoofer</a>
+* <a href="https://github.com/gentilkiwi/mimikatz/wiki">Mimikatz</a>
+* <a href="https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Invoke-Mimikatz.ps1">Mimikats PowerShell Version</a>
+* <a href="https://github.com/v0lk3n/SQLinks2Move">Microsoft SQL Linked Servers Attacks - SQLinks2Move</a>
 
 ### Encoding<a name="Encoding"></a>
 
@@ -33,10 +40,4 @@ Just a OSEP Cheat Sheet for my examination preparation.
 
 ### Active Directory & Exploit<a name="AD"></a>
 
-* <a href="https://github.com/BloodHoundAD/BloodHound/blob/master/Collectors/SharpHound.ps1">SharpHound</a>
-* <a href="https://github.com/GhostPack/Rubeus">Rubeus</a>
-* <a href="https://github.com/leechristensen/SpoolSample">SpoolSample</a>
-* <a href="https://github.com/itm4n/PrintSpoofer">PrintSpoofer</a>
-* <a href="https://github.com/gentilkiwi/mimikatz/wiki">Mimikatz</a>
-* <a href="https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Invoke-Mimikatz.ps1">Mimikats PowerShell Version</a>
-* <a href="https://github.com/v0lk3n/SQLinks2Move">Microsoft SQL Linked Servers Attacks - SQLinks2Move</a>
+

@@ -23,20 +23,20 @@ Just a OSEP Cheat Sheet for my examination preparation.
 
 ### Encoding<a name="Encoding"></a>
 
-* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/Encoders/Caesar%20Shellcode%20Encoder">Caesar Shellcode Encoding</a>
-* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/Encoders/ROT%20Shellcode%20Encoder">ROT Shellcode Encoding</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Encoders/Caesar%20Shellcode%20Encoder">Caesar Shellcode Encoding</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Encoders/ROT%20Shellcode%20Encoder">ROT Shellcode Encoding</a>
 
 ### Bypasses<a name="Bypasses"></a>
 
-* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/Bypasses/AMSI-CLM-Bypass/amsi-clm-bypass.md">AMSI & CLM Bypass</a>
-* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/Bypasses/ConnectionRateLimit/Bypass-ConnectionLimit.md">Connection Rate Limit Bypass</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Bypasses/AMSI-CLM-Bypass/amsi-clm-bypass.md">AMSI & CLM Bypass</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Bypasses/ConnectionRateLimit/Bypass-ConnectionLimit.md">Connection Rate Limit Bypass</a>
 
 ### Payloads & Shellcodes<a name="PS"></a>
 
-* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/Payloads/Payloads-List.md">Payloads List</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Payloads/Payloads-List.md">Payloads List</a>
 
-* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/Payloads/VBA-SimpleMacro.md">VBA Simple Shellcode</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Payloads/VBA-SimpleMacro.md">VBA Simple Shellcode</a>
 
 ### Active Directory & Exploit<a name="AD"></a>
 
-
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/AbusingSpoolsService.md">Abusing Spools Services using Rubeus, SpoolSample and Mimikatz.</a>

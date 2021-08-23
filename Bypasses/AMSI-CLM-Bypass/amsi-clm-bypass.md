@@ -4,7 +4,7 @@
 
 1. Download the Source Code of CLM Bypass and compile it.
 
-<a href="https://github.com/V0lk3n/OSEP-CheatSheet/tree/main/Bypasses/CLM%20Bypass">CLM Bypass</a>
+*  <a href="https://github.com/V0lk3n/OSEP-CheatSheet/tree/main/Bypasses/CLM%20Bypass">CLM Bypass</a>
 
 2. Create a text file to bypass AMSI and import/execute the needed PowerShell script or whatever.
 

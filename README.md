@@ -28,7 +28,7 @@ Just a OSEP Cheat Sheet for my examination preparation.
 ### Payloads & Shellcodes<a name="PS"></a>
 
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/Payloads/Payloads-List.md">Payloads List</a>
-</br>
+
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/Payloads/VBA-SimpleMacro.md">VBA Simple Shellcode</a>
 
 ### Active Directory & Exploit<a name="AD"></a>

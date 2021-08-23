@@ -28,8 +28,7 @@ Just a OSEP Cheat Sheet for my examination preparation.
 
 ### Bypasses<a name="Bypasses"></a>
 
-* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/Bypasses/CLM%20Bypass">CLM Bypass</a>
-* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/Bypasses/AMSI-CLM-Bypass/amsi-clm-bypass.md">AMSI/CLM Bypass Command Line Version</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/Bypasses/AMSI-CLM-Bypass/amsi-clm-bypass.md">AMSI & CLM Bypass</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/Bypasses/ConnectionRateLimit/Bypass-ConnectionLimit.md">Connection Rate Limit Bypass</a>
 
 ### Payloads & Shellcodes<a name="PS"></a>

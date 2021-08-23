@@ -41,7 +41,6 @@ Just a OSEP Cheat Sheet for my examination preparation.
 ### Active Directory & Exploit<a name="AD"></a>
 
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/AbusingSpoolsService.md">Abusing Spools Services using Rubeus, SpoolSample and Mimikatz.</a>
-* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/Unsecure-Group-Permissions.md">Unsecure Group Permissions</a>
 
 ### Linux Side<a name="Linux"></a>
 

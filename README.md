@@ -6,6 +6,7 @@ Just a OSEP Cheat Sheet for my examination preparation.
 * [Tools](#Tools)
 * [Encoding](#Encoding)
 * [Bypasses](#Bypasses)
+* [Payloads & Shellcodes](#PS)
 * [Active Directory & Exploit](#AD)
 
 ### Tools<a name="Tools"></a>
@@ -15,13 +16,20 @@ Just a OSEP Cheat Sheet for my examination preparation.
 
 ### Encoding<a name="Encoding"></a>
 
-* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/tree/main/Encoders/Caesar%20Shellcode%20Encoder">Caesar Shellcode Encoding</a>
-* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/tree/main/Encoders/ROT%20Shellcode%20Encoder">ROT Shellcode Encoding</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/Encoders/Caesar%20Shellcode%20Encoder">Caesar Shellcode Encoding</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/Encoders/ROT%20Shellcode%20Encoder">ROT Shellcode Encoding</a>
 
 ### Bypasses<a name="Bypasses"></a>
 
-* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/tree/main/Bypasses/CLM%20Bypass">CLM Bypass</a>
-* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Bypasses/AMSI-CLM-Bypass/amsi-clm-bypass.md">AMSI/CLM Bypass Command Line Version</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/Bypasses/CLM%20Bypass">CLM Bypass</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/Bypasses/AMSI-CLM-Bypass/amsi-clm-bypass.md">AMSI/CLM Bypass Command Line Version</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/Bypasses/ConnectionRateLimit/Bypass-ConnectionLimit.md">Connection Rate Limit Bypass</a>
+
+### Payloads & Shellcodes<a name="PS"></a>
+
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/Payloads/Payloads-List.md">Payloads List</a>
+</br>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/Payloads/VBA-SimpleMacro.md">VBA Simple Shellcode</a>
 
 ### Active Directory & Exploit<a name="AD"></a>
 

@@ -8,6 +8,7 @@ Just a OSEP Cheat Sheet for my examination preparation.
 * [Bypasses](#Bypasses)
 * [Payloads & Shellcodes](#PS)
 * [Active Directory & Exploit](#AD)
+* [Linux Side](#Linux)
 
 ### Tools<a name="Tools"></a>
 
@@ -40,3 +41,8 @@ Just a OSEP Cheat Sheet for my examination preparation.
 ### Active Directory & Exploit<a name="AD"></a>
 
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/AbusingSpoolsService.md">Abusing Spools Services using Rubeus, SpoolSample and Mimikatz.</a>
+
+### Linux Side<a name="Linux"></a>
+
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/LinuxSide/Ansible.md">Ansible</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/LinuxSide/ControlMaster-SSH_Hijacking.md">ControlMaster - SSH Hijacking</a>

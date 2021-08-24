@@ -31,6 +31,7 @@ Just a OSEP Cheat Sheet for my examination preparation.
 
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Bypasses/AMSI-CLM-Bypass/amsi-clm-bypass.md">AMSI & CLM Bypass</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Bypasses/ConnectionRateLimit/Bypass-ConnectionLimit.md">Connection Rate Limit Bypass</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Bypasses/Escaping-Private_tmp_Protection.md">Private tmp Protection Bypass</a>
 
 ### Payloads & Shellcodes<a name="PS"></a>
 
@@ -46,3 +47,4 @@ Just a OSEP Cheat Sheet for my examination preparation.
 
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/LinuxSide/Ansible.md">Ansible</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/LinuxSide/ControlMaster-SSH_Hijacking.md">ControlMaster - SSH Hijacking</a>
+* <a href="">Kerberos Attacks</a>

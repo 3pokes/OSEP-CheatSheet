@@ -44,6 +44,7 @@ Just a OSEP Cheat Sheet for my examination preparation.
 ### Active Directory & Exploit<a name="AD"></a>
 
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/AbusingSpoolsService.md">Abusing Spools Services using Rubeus, SpoolSample and Mimikatz.</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/PowerMad-Exploit_Generic_Write.md">PowerMad - Exploiting GenericWrite</a>
 
 ### Linux Side<a name="Linux"></a>
 

@@ -38,6 +38,7 @@ Just a OSEP Cheat Sheet for my examination preparation.
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Payloads/Payloads-List.md">Payloads List</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Payloads/ELF-SimplePayload.md">ELF Simple Payload</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Payloads/VBA-SimpleMacro.md">VBA Simple Shellcode (Macro)</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Payloads/HTA-Payload.md">HTA Payload - C# Shellcode Runner and DotNetToJScript</a>
 
 ### Active Directory & Exploit<a name="AD"></a>
 

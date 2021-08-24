@@ -3,12 +3,19 @@ Just a OSEP Cheat Sheet for my examination preparation.
 
 ## Table of Contents
 
+* [CheatSheet](#CheatSheet)
 * [Tools](#Tools)
 * [Encoding](#Encoding)
 * [Bypasses](#Bypasses)
 * [Payloads & Shellcodes](#PS)
 * [Active Directory & Exploit](#AD)
 * [Linux Side](#Linux)
+
+### CheatSheet<a name="CheatSheet"></a>
+
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/CheatSheet/CheatSheet-PowerShell.md">Cheat Sheet - PowerShell Scripts</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/CheatSheet/CheatSheet-Exploitation_and_Shells.md">Cheat Sheet - Exploitations and Shells</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/CheatSheet/CheatSheet-Utilities.md">Cheat Sheet - Utilities</a>
 
 ### Tools<a name="Tools"></a>
 

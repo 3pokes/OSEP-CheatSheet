@@ -1,4 +1,4 @@
-# Commands Cheat Sheet - PowerShell
+# Cheat Sheet - PowerShell Scripts
 
 ## Table of content :
 

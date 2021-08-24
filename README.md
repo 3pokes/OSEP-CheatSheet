@@ -19,7 +19,7 @@ Just a OSEP Cheat Sheet for my examination preparation.
 * <a href="https://github.com/leechristensen/SpoolSample">SpoolSample</a>
 * <a href="https://github.com/itm4n/PrintSpoofer">PrintSpoofer</a>
 * <a href="https://github.com/gentilkiwi/mimikatz/wiki">Mimikatz</a>
-* <a href="https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Invoke-Mimikatz.ps1">Mimikats PowerShell Version</a>
+* <a href="https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Invoke-Mimikatz.ps1">Mimikatz PowerShell Version</a>
 * <a href="https://github.com/v0lk3n/SQLinks2Move">Microsoft SQL Linked Servers Attacks - SQLinks2Move</a>
 
 ### Encoding<a name="Encoding"></a>
@@ -31,7 +31,7 @@ Just a OSEP Cheat Sheet for my examination preparation.
 
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Bypasses/AMSI-CLM-Bypass/amsi-clm-bypass.md">AMSI & CLM Bypass</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Bypasses/ConnectionRateLimit/Bypass-ConnectionLimit.md">Connection Rate Limit Bypass</a>
-* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Bypasses/Escaping-Private_tmp_Protection.md">Private tmp Protection Bypass</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Bypasses/Escaping-Private_tmp_Protection.md">Private tmp systemd Bypass</a>
 
 ### Payloads & Shellcodes<a name="PS"></a>
 

@@ -64,6 +64,9 @@ Just a OSEP Cheat Sheet for my examination preparation.
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/PowerMad-Exploit_Generic_Write.md">PowerMad - Exploiting GenericWrite</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/WriteDACL-Exploitation/WriteDACL_Exploitation.md">WriteDACL Exploitation</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/Dump-LSASS_process.md">Dump LSASS Process</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/Mimikatz-PassTheHashes_and_RestrictedAdminMode.md">Mimikatz - Pass The Hashes and Restricted Admin Mode</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/WindowsCredentials-LAPS.md">Windows Credentials - LAPS
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/WindowsCredentials-SAM_Database-and-Decryption.md">Windows Credentials - SAM Database and Decryption</a>
 
 ## Linux Side<a name="Linux"></a>
 

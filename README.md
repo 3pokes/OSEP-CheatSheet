@@ -52,6 +52,7 @@ Just a OSEP Cheat Sheet for my examination preparation.
 
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/AbusingSpoolsService.md">Abusing Spools Services using Rubeus, SpoolSample and Mimikatz.</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/PowerMad-Exploit_Generic_Write.md">PowerMad - Exploiting GenericWrite</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/WriteDACL-Exploitation/WriteDACL_Exploitation.md">WriteDACL Exploitation</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/Dump-LSASS_process.md">Dump LSASS Process</a>
 
 ### Linux Side<a name="Linux"></a>

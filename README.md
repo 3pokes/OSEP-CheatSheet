@@ -8,7 +8,7 @@ Just a OSEP Cheat Sheet for my examination preparation.
 * [Encoding](#Encoding)
 * [Bypasses](#Bypasses)
 * [Payloads & Shellcodes](#PS)
-* [Active Directory & Exploit](#AD)
+* [Windows Side](#Windows)
 * [Linux Side](#Linux)
 * [Others Ressources](#Others)
 
@@ -58,7 +58,7 @@ Just a OSEP Cheat Sheet for my examination preparation.
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Payloads/VBA-SimpleMacro.md">VBA Simple Shellcode (Macro)</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Payloads/HTA-Payload.md">HTA Payload - C# Shellcode Runner and DotNetToJScript</a>
 
-## Active Directory & Exploit<a name="AD"></a>
+## Windows Side<a name="Windows"></a>
 
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/AbusingSpoolsService.md">Abusing Spools Services using Rubeus, SpoolSample and Mimikatz.</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/PowerMad-Exploit_Generic_Write.md">PowerMad - Exploiting GenericWrite</a>

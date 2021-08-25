@@ -21,6 +21,7 @@ Just a OSEP Cheat Sheet for my examination preparation.
 ## Tools<a name="Tools"></a>
 
 * <a href="https://antiscan.me/">Multi AV Scanning Online Tool - Anti Scan Me.</a>
+* <a href="http://www.pinvoke.net/">Plateform Invocation Services (P/Invoke)</a>
 * <a href="https://github.com/tyranid/DotNetToJScript">DotNetToJScript</a>
 * <a href="https://github.com/BloodHoundAD/BloodHound/blob/master/Collectors/SharpHound.ps1">SharpHound</a>
 * <a href="https://github.com/GhostPack/Rubeus">Rubeus</a>

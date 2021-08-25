@@ -10,6 +10,7 @@ Just a OSEP Cheat Sheet for my examination preparation.
 * [Payloads & Shellcodes](#PS)
 * [Active Directory & Exploit](#AD)
 * [Linux Side](#Linux)
+* [Others Ressources](#Others)
 
 ## CheatSheet<a name="CheatSheet"></a>
 
@@ -61,3 +62,9 @@ Just a OSEP Cheat Sheet for my examination preparation.
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/LinuxSide/Ansible.md">Ansible</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/LinuxSide/ControlMaster-SSH_Hijacking.md">ControlMaster - SSH Hijacking</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/LinuxSide/Kerberos-Attacks.md">Kerberos Attacks</a>
+
+## Others Ressources
+
+* <a href="https://github.com/chvancooten/OSEP-Code-Snippets">OSEP Code Snippets Repo</a>
+* <a href="https://www.offensive-security.com/offsec/powershell-obfuscation/">Powershell Obfuscation - AMSI Bypass</a>
+* <a href="https://rastamouse.me/memory-patching-amsi-bypass/">Memory Patching - AMSI Bypass By RastaMouse</a>

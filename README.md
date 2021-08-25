@@ -71,6 +71,7 @@ Just a OSEP Cheat Sheet for my examination preparation.
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/LinuxSide/Ansible.md">Ansible</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/LinuxSide/ControlMaster-SSH_Hijacking.md">ControlMaster - SSH Hijacking</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/LinuxSide/Kerberos-Attacks.md">Kerberos Attacks</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/LinuxSide/Kaspersky_Endpoint_Security.md">Kaspersky Endpoint Security</a>
 
 ## Others Ressources
 

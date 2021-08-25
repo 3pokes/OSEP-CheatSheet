@@ -24,6 +24,7 @@ Just a OSEP Cheat Sheet for my examination preparation.
 * <a href="http://www.pinvoke.net/">Plateform Invocation Services (P/Invoke)</a>
 * <a href="https://github.com/tyranid/DotNetToJScript">DotNetToJScript</a>
 * <a href="https://github.com/BloodHoundAD/BloodHound/blob/master/Collectors/SharpHound.ps1">SharpHound</a>
+* <a href="https://github.com/mdsecactivebreach/SharpShooter">SharpShooter</a>
 * <a href="https://github.com/GhostPack/Rubeus">Rubeus</a>
 * <a href="https://github.com/leechristensen/SpoolSample">SpoolSample</a>
 * <a href="https://docs.microsoft.com/en-us/sysinternals/downloads/procdump">ProcDump</a>

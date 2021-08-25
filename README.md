@@ -60,6 +60,8 @@ Just a OSEP Cheat Sheet for my examination preparation.
 
 ## Windows Side<a name="Windows"></a>
 
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/Chisel-ReverseRDP_Proxying.md">Chisel - Reverse RDP Proxying</a>
+* * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/SharpRDP-RDP_As_Console.md">SharpRDP - RDP as Console</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/AbusingSpoolsService.md">Abusing Spools Services using Rubeus, SpoolSample and Mimikatz.</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/PowerMad-Exploit_Generic_Write.md">PowerMad - Exploiting GenericWrite</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/WriteDACL-Exploitation/WriteDACL_Exploitation.md">WriteDACL Exploitation</a>

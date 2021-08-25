@@ -11,7 +11,7 @@ Just a OSEP Cheat Sheet for my examination preparation.
 * [Active Directory & Exploit](#AD)
 * [Linux Side](#Linux)
 
-### CheatSheet<a name="CheatSheet"></a>
+## CheatSheet<a name="CheatSheet"></a>
 
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/CheatSheet/CheatSheet-PowerShell.md">Cheat Sheet - PowerShell Scripts</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/CheatSheet/CheatSheet-Exploitation_and_Shells.md">Cheat Sheet - Exploitations and Shells</a>

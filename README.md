@@ -41,13 +41,19 @@ Just a OSEP Cheat Sheet for my examination preparation.
 ## Bypasses<a name="Bypasses"></a>
 
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Bypasses/AMSI-CLM-Bypass/amsi-clm-bypass.md">AMSI & CLM Bypass</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Bypasses/AlternateDataStream-BasicBypass.md">Alternate Data Strem - Basic Bypass</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Bypasses/FodHelper-UAC_Bypass.md">FodHelper - UAC Bypass</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Bypasses/ConnectionRateLimit/Bypass-ConnectionLimit.md">Connection Rate Limit Bypass</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Bypasses/Escaping-Private_tmp_Protection.md">Private tmp systemd Bypass</a>
 
 ## Payloads & Shellcodes<a name="PS"></a>
 
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Payloads/Payloads-List.md">Payloads List</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Payloads/DLL-Injection_with_CSharp.md">DLL Injection with C#</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Payloads/Powershell-Reflective_DLL_Injection.md">Powershell - Reflective DLL Injection</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Payloads/PowerShell-ShellcodeRunner.md">Powershell Shellcode Runner</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Payloads/JScript-Basic-Dropper.md">JScript - Basic Dropper</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Payloads/SharpShooter-Jscript_Shellcode_Runner.md">SharpShooter - JScript Shellcode Runner</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Payloads/ELF-SimplePayload.md">ELF Simple Payload</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Payloads/VBA-SimpleMacro.md">VBA Simple Shellcode (Macro)</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/Payloads/HTA-Payload.md">HTA Payload - C# Shellcode Runner and DotNetToJScript</a>
@@ -61,6 +67,7 @@ Just a OSEP Cheat Sheet for my examination preparation.
 
 ## Linux Side<a name="Linux"></a>
 
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/LinuxSide/Setup-Samba-share-on-Kali.md">Setup Samba Share on Kali</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/LinuxSide/Ansible.md">Ansible</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/LinuxSide/ControlMaster-SSH_Hijacking.md">ControlMaster - SSH Hijacking</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/LinuxSide/Kerberos-Attacks.md">Kerberos Attacks</a>

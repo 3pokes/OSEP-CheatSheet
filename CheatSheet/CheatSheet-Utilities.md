@@ -48,5 +48,5 @@ schtasks /query
 ### Enumerate SQL Server (Windows)<a name="EnumSQLServer"></a>
 
 ```bash
-setspn -T tricky -Q MSSQLSvc/*
+setspn -T sinhack.com -Q MSSQLSvc/*
 ```

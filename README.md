@@ -66,6 +66,9 @@ Just a OSEP Cheat Sheet for my examination preparation.
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/OwningTheForest-ExtraSID.md">Owning The Forest - Extra SIDs</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/OwningTheForest-PrintersBug.md">Owning The Forest - Printers Bug</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/AbusingSpoolsService.md">Abusing Spools Services using Rubeus, SpoolSample and Mimikatz.</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/Kerberos-ConstrainedDelegation.md">Kerberos - Constrained Delegation</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/Kerberos-Resource-Based_Constrained_Delegation.md">Kerberos - Resource-Based Constrained Delegation (GenericWrite & PowerMad)</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/Kerberos-UnconstrainedDelegation.md">Kerberos - Unconstrained Delegation</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/PowerMad-Exploit_Generic_Write.md">PowerMad - Exploiting GenericWrite</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/WriteDACL-Exploitation/WriteDACL_Exploitation.md">Abusing WriteDACL</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/Abusing-GenericAll.md">Abusing GenericAll</a>

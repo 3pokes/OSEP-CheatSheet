@@ -63,6 +63,7 @@ Just a OSEP Cheat Sheet for my examination preparation.
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/Chisel-ReverseRDP_Proxying.md">Chisel - Reverse RDP Proxying</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/SharpRDP-RDP_As_Console.md">SharpRDP - RDP as Console</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/OwningTheForest-Enumeration.md">Owning The Forest - Enumeration</a>
+* <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/OwningTheForest-ExtraSID.md">Owning The Forest - Extra SIDs</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/OwningTheForest-PrintersBug.md">Owning The Forest - Printers Bug</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/AbusingSpoolsService.md">Abusing Spools Services using Rubeus, SpoolSample and Mimikatz.</a>
 * <a href="https://github.com/V0lk3n/OSEP-CheatSheet/blob/main/ActiveDirectoryAndExploit/PowerMad-Exploit_Generic_Write.md">PowerMad - Exploiting GenericWrite</a>

@@ -12,6 +12,7 @@
 
 ```PowerShell
 Get-DomainComputer -Unconstrained
+Get-DomainComputer -TrustedToAuth 
 Get-DomainUser -Domain sinhack.com
 Get-DomainUser -Identity v0lk3n
 Get-DomainTrust -API

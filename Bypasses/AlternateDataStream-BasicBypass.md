@@ -15,9 +15,9 @@ TeamViewer12_Logfile.log:test.js:$DATA
 
 ```
 
-If we double click the icon for the log file, it would open the log in Notepad as a standard log file.
+If we double click on icon for the log file, it would open the log in Notepad as a standard log file.
 
-But if we execute it from the command line with "wscript", specifying the ADS, the Jscript content is executed.
+But if we execute it from the command line with "wscript", specifying the ADS, the Jscript content it executed.
 
 ```cmd.exe
 
